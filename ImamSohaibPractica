@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ramadan Practicum by Imam Sohaib Sultan</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        h1 {
+            font-size: 28px;
+            color: #4a148c;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        h2 {
+            font-size: 24px;
+            color: #1976d2;
+            margin-top: 40px;
+            margin-bottom: 20px;
+        }
+        p, ul {
+            font-size: 18px;
+            color: #333;
+        }
+        ul {
+            padding-left: 30px;
+        }
+        .container {
+            max-width: 700px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 30px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .highlight {
+            background-color: #ffeb3b;
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
+        .icon {
+            margin-right: 10px;
+            color: #ff5722;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1><i class="fas fa-moon icon"></i> Four Ramadan Practica, as Articulated by Imam Sohaib Sultan</h1>
+        <p>Notes by Nabil Shaikh (Ramadan 1439, revised Ramadan 1445)</p>
+
+        <h2><i class="fas fa-user icon"></i> Ramadan Practicum #1: <span class="highlight">Building Character</span></h2>
+        <ol>
+            <li>Identify a habit that constitutes a major moral / spiritual obstacle between you and God. This is your <span class="highlight">biggest character flaw</span>. Consider the inward and outward dimensions of this obstacle.</li>
+            <li>Write down the <span class="highlight">Negative Thoughts</span> from which this habit begins, for indeed negative habits begin with negative thoughts. Then, write down the <span class="highlight">Positive Thoughts</span> with which you will replace these Negative Thoughts when they arise.</li>
+            <li>Write down the <span class="highlight">Negative Company</span> that is complicit in producing this habit, then write down the <span class="highlight">Positive Company</span> with which you will replace it. (Note: "company" does not have to be people, but can include certain places, websites, and environments too.)</li>
+            <li>Write down the <span class="highlight">Negative Action</span> that you take, and replace it with a <span class="highlight">Positive Action</span>.</li>
+            <li>Write down the <span class="highlight">Negative Gratification</span> you receive from doing the negative act, and replace with a form of <span class="highlight">Positive Gratification</span> that you will reward yourself with after the positive act.</li>
+        </ol>
+
+        <h2><i class="fas fa-book icon"></i> Ramadan Practicum #2: <span class="highlight">The Practicals of Ramadan</span></h2>
+        <p>Learn the essentials of fasting, tarawih, Zakah, etc.</p>
+        <p>This is more of a learning module than a practicum.</p>
+        <p>If you are looking for a comprehensive but relatively concise guide, <a href="http://seekershub.org/ans-blog/2010/08/09/the-complete-guide-to-fasting/">this is fantastic <i class="fas fa-external-link-alt"></i></a>.</p>
+        <p>A more detailed guide is Shaykh Faraz Rabbani's class on the "Aims of Fasting." Click <a href="#">here <i class="fas fa-file-audio"></i></a> for the audio files and lecture notes.</p>
+
+        <h2><i class="fas fa-quran icon"></i> Ramadan Practicum #3: <span class="highlight">Developing a Relationship with the Qur'an</span></h2>
+        <p>Our right over the Qur'an is that it guides us. The Qur'an's right over us is fivefold:</p>
+        <ol>
+            <li>That we <span class="highlight">recite</span> it. <i class="fas fa-book-open"></i></li>
+            <li>That we <span class="highlight">memorize</span> it. <i class="fas fa-brain"></i></li>
+            <li>That we <span class="highlight">reflect</span> on it. <i class="fas fa-lightbulb"></i></li>
+            <li>That we <span class="highlight">live</span> it. <i class="fas fa-walking"></i></li>
+            <li>That we <span class="highlight">teach</span> it. <i class="fas fa-chalkboard-teacher"></i></li>
+        </ol>
+        <p>This practicum has five steps, in line with these five rights:</p>
+        <ol>
+            <li>Come up with a Ramadan plan for <span class="highlight">recitation</span>.</li>
+            <li>Come up with a Ramadan plan for <span class="highlight">memorization</span>.</li>
+            <li>Come up with a Ramadan plan for <span class="highlight">contemplation and reflection</span>.</li>
+            <li>Come up with a Ramadan plan for <span class="highlight">living and implementing</span>.</li>
+            <li>Come up with a Ramadan plan for <span class="highlight">teaching</span>.</li>
+        </ol>
+
+        <h2><i class="fas fa-hands-praying icon"></i> Ramadan Practicum #4: <span class="highlight">Constructing Your Personalized Dua</span></h2>
+        <p>Dua is the weapon of the believer. It is our way out of danger and desperation.</p>
+        <p>Part A: Fostering a Daily State of Dua</p>
+        <ol>
+            <li>Pick one time during each day of Ramadan, and set a timer for 5-10 minutes <i class="fas fa-clock"></i></li>
+            <li>Just sit for that timespan, with your hands up, palms facing the heavens. <i class="fas fa-hand-paper"></i></li>
+            <li>Verbalize a dua, or don't verbalize it, but just sit there in a state of dua. <i class="fas fa-comments"></i></li>
+        </ol>
+        <p>Part B: Writing a Personalized Ramadan Dua</p>
+        <p>Follow the circle below. Write this dua on paper or on your phone. Add to it during the month.</p>
+        <ol>
+            <li>Start with duas for your own <span class="highlight">Self</span>. <i class="fas fa-user-circle"></i></li>
+            <li>Next, include duas for your <span class="highlight">family</span>. <i class="fas fa-home"></i></li>
+            <li>Continue with duas for your <span class="highlight">community</span>, your neighbors, your friends. <i class="fas fa-users"></i></li>
+            <li>Lastly, conclude with duas for the <span class="highlight">world</span>, for social justice, for the oppressed, and for non-persons too - i.e. the animals, ecosystems, the universe. <i class="fas fa-globe-americas"></i></li>
+        </ol>
+
+    </div>
+</body>
+</html>
